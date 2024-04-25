@@ -16,4 +16,4 @@
 ## Execution Type:
 ### Both of these programs have file opening and processing functionality. They also both require user determined inputs that are relative to their functionality (i.e., iata code or number of cities)
 ## Potential Improvements
-### Stronger documentation would improve the code, greater detailing from other rows and columns could extend the functionality of the Popular Cities Analyzer. We could also extend functionality of the Airport code lookup as well.
+### Stronger documentation exports would improve the code, greater detailing from other rows and columns could extend the functionality of the Popular Cities Analyzer. We could also extend functionality of the Airport code lookup as well.
